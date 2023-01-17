@@ -1,4 +1,4 @@
-# Healthcare Demo
+# Healthcare Demo1
 
 This repository contains the BigQuery based LookML, for both the model and dashboards, for demonstrating Looker’s ability to provide value within the healthcare landscape.
 
